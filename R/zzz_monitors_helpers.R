@@ -732,7 +732,7 @@ NULL
 #' @param thin Integer; thinning factor for returned \code{mcmc} objects.
 #'
 #' @return A \code{coda::mcmc.list} object.
-#' @keywords internal
+#' @export
 as_mcmc_list_sop <- function(samples,
                              samples2    = NULL,
                              drop_loglik = FALSE,

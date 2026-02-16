@@ -23,4 +23,3 @@ A \code{coda::mcmc.list} object.
 Optionally merges \code{samples2} into \code{samples}, aligning by row count
 when needed and stripping log-likelihood columns if requested.
 }
-\keyword{internal}

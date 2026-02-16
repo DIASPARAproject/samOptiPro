@@ -2,6 +2,7 @@
 
 export(.compile_mcmc_with_build)
 export(as_mcmc_list)
+export(as_mcmc_list_sop)
 export(assess_performance)
 export(assess_performance_vect)
 export(build_conf_with_monitors)
